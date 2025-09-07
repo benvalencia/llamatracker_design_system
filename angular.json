@@ -18,8 +18,8 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/llamatracker_design_system",
-            "baseHref": "./llamatracker_design_system/",
-            "deployUrl": "https://design.llamatracker.net/",
+            "baseHref": "./",
+            "deployUrl": "https://design.llamatracker.net/llamatracker_design_system/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
