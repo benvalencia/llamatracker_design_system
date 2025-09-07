@@ -19,7 +19,6 @@
           "options": {
             "outputPath": "dist/llamatracker_design_system",
             "baseHref": "/llamatracker-design-system/",
-            "deployUrl": "/llamatracker-design-system/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
